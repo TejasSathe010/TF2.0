@@ -28,6 +28,12 @@ Applying Tensoflow2.0 Keras Tuner on the Fashion MNIST dataset to find perfect p
 </p> 
 <br>
 
+## TF Fundamentals
+#### Contain all basic of TF2.0
+<p>
+All Fundamental concepts of the <b>Tensoflow2</b> framework.<br>
+</p> 
+<br>
 
 
 <b><i style='font:monospace'>Tejas Sathe</i></b>
